@@ -22,6 +22,3 @@ beyonce = Person.new
 
 beyonce.name = "Beyonce"
 beyonce.job = "Singer"
-
-
-puts beyonce.job
