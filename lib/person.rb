@@ -10,6 +10,8 @@ end
 
 end
 
-beyonce = Person.new("Beyonce")
+beyonce = Person.new
+
+beyonce.name = ("Beyonce")
 
 puts Beyonce.name
