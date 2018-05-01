@@ -1,11 +1,13 @@
 class Person
-def initialize(name)
-    @name = name
-  end
- 
-  def name
-    @name
-  end
+
+def initialize(first_name)
+  @persons_name = first_name
+end
+
+def persons_name
+  @persons_name
+end
+
 end
 
 beyonce = Person.new("Beyonce")
