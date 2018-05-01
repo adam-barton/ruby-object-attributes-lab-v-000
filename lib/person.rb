@@ -8,7 +8,7 @@ def name
   @name
 end
 
-def job=(job)
+def initialize (job)
     @job = job
   end
  
