@@ -8,8 +8,8 @@ def name
   @name
 end
 
-def job=(persons_job)
-    @job = persons_job
+def job=(job)
+    @job = job
   end
  
   def job 
