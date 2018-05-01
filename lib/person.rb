@@ -12,3 +12,4 @@ end
 
 beyonce = Person.new("Beyonce")
 
+beyonce.name = "Beyonce"
